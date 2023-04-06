@@ -38,6 +38,8 @@ Plug 'sheerun/vim-polyglot'
 Plug 'bluz71/vim-moonfly-colors'
 Plug 'eddyekofo94/gruvbox-flat.nvim'
 Plug 'morhetz/gruvbox'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
 call plug#end()
 
 
